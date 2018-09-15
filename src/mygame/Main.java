@@ -52,7 +52,7 @@ import com.jme3.texture.Texture.WrapMode;
 import java.util.Random;
 
 /**
- * This is the solution for VE assignment 5
+ * This is a shooting fish game
  * Student number: 8759122
  * @author Fanyu Ran 
  */
